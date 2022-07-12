@@ -1,0 +1,17 @@
+{
+  "name": "cocktails",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "jest ./tests"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "jest": "^28.1.1",
+    "koa": "^2.13.4",
+    "koa-router": "^11.0.*",
+    "lodash": "^4.17.21",
+    "mysql": "^2.18.1"
+  }
+}
