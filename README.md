@@ -18,6 +18,15 @@ npm install
 npm start
 ```
 
+Following endpoint can be used to use the service
+
+```sh
+localhost:3000/dingdong
+```
+| Param                     | Type                 | Description                                                   |
+|---------------------------|----------------------|---------------------------------------------------------------|
+| [ numOfStoreIngredients ] | <code>Integer</code> | Number of stored ingredients you want to use for the cocktail |
+
 ## Tests
 
 Run tests using: 
