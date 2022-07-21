@@ -4,6 +4,11 @@
 
 You can find the problem to solve [here](https://bodenbauschutt-cocktails.deno.dev/task2).
 
+## Task definition
+
+Use 6 hours of time to solve the task described above. Further thoughts and remaining ToDos will be shared in a review session.
+
+
 ## Installation
 
 Install using [npm](https://www.npmjs.org/):
